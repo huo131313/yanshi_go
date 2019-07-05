@@ -1,5 +1,6 @@
 #源镜像
-FROM golang:latest
+#FROM golang:latest
+FROM liupeng0518/golang-1.12.5-stretch
 #作者
 MAINTAINER Barry "wanghongquan@inspur.com"
 #设置工作目录
